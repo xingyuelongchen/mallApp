@@ -37,7 +37,7 @@ Router.prototype.Go = function (e) {
 const routerList = [...homeRoutes, ...cartRoutes, ...mineRoutes]
 export default new Router({
   mode: 'history',
-  base:'dist',
+  base:'mallApp/dist/',
   routes: [
     ...new Set(routerList),
     {
