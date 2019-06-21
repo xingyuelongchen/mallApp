@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.50f0e508c6a30ce62760db610ff0b592.js"
+  "/mallApp/dist/precache-manifest.ac9a27020644e797e1d8d01567f69b9f.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "item"});
