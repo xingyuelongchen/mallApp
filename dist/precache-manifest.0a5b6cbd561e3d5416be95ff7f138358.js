@@ -24,16 +24,16 @@ self.__precacheManifest = [
     "url": "/mallApp/dist/js/chunk-18dd6342.f48fdbc6.js"
   },
   {
-    "revision": "ebfd589999708aeacd55624924df97b3",
-    "url": "/mallApp/dist/img/pic_max_2.png"
+    "revision": "e8c7cf1c77b0cdda08cd9701971e4d51",
+    "url": "/mallApp/dist/img/img.png"
   },
   {
     "revision": "a13b32cc6bc80fe5a6f1",
     "url": "/mallApp/dist/js/chunk-1e62856f.cbca9d6c.js"
   },
   {
-    "revision": "e8c7cf1c77b0cdda08cd9701971e4d51",
-    "url": "/mallApp/dist/img/img.png"
+    "revision": "ebfd589999708aeacd55624924df97b3",
+    "url": "/mallApp/dist/img/pic_max_2.png"
   },
   {
     "revision": "79ac2a2a979c5bf3b37e",
@@ -108,16 +108,16 @@ self.__precacheManifest = [
     "url": "/mallApp/dist/js/chunk-521e4590.c434d8cd.js"
   },
   {
-    "revision": "708750a7781367b5767f4e50f4aa4195",
-    "url": "/mallApp/dist/img/shopImg_3.png"
+    "revision": "646a117408a1bac420d64f567d2bcf90",
+    "url": "/mallApp/dist/img/shopImg_4.png"
   },
   {
     "revision": "89db43972ad26c1c36a2",
     "url": "/mallApp/dist/js/chunk-5e389fcc.46c4e29e.js"
   },
   {
-    "revision": "646a117408a1bac420d64f567d2bcf90",
-    "url": "/mallApp/dist/img/shopImg_4.png"
+    "revision": "708750a7781367b5767f4e50f4aa4195",
+    "url": "/mallApp/dist/img/shopImg_3.png"
   },
   {
     "revision": "b7282018b18ae64ffaad",
@@ -172,24 +172,24 @@ self.__precacheManifest = [
     "url": "/mallApp/dist/js/chunk-a652b354.1b465300.js"
   },
   {
-    "revision": "949e68b679c5d10344660f5b3e7dbefd",
-    "url": "/mallApp/dist/img/icon_a.png"
+    "revision": "71f796512d3aa1d702c59e09cf2c4b33",
+    "url": "/mallApp/dist/img/icon_b.png"
   },
   {
     "revision": "89c4cd970a9a4e54ae9f",
     "url": "/mallApp/dist/js/chunk-a8f14e62.171103c2.js"
   },
   {
-    "revision": "71f796512d3aa1d702c59e09cf2c4b33",
-    "url": "/mallApp/dist/img/icon_b.png"
+    "revision": "949e68b679c5d10344660f5b3e7dbefd",
+    "url": "/mallApp/dist/img/icon_a.png"
   },
   {
     "revision": "fed066f0b15ddee548a9",
     "url": "/mallApp/dist/js/chunk-ac429a8c.e9bd34f2.js"
   },
   {
-    "revision": "88c4e29a65f7de4a3ccdfc4353fcb173",
-    "url": "/mallApp/dist/img/icon_c.png"
+    "revision": "17426f20fb69a2aca4379fd87dc2d533",
+    "url": "/mallApp/dist/img/loading.png"
   },
   {
     "revision": "6d21838112aec93db69c",
@@ -208,20 +208,20 @@ self.__precacheManifest = [
     "url": "/mallApp/dist/js/chunk-e78efcb8.2d1d327d.js"
   },
   {
-    "revision": "17426f20fb69a2aca4379fd87dc2d533",
-    "url": "/mallApp/dist/img/loading.png"
+    "revision": "d07c69f88e55baa9fff5825a6fb1451c",
+    "url": "/mallApp/dist/img/icon_d.png"
   },
   {
     "revision": "eb78ca245aeff896569f",
     "url": "/mallApp/dist/js/chunk-fa1ac7f0.c47e868b.js"
   },
   {
-    "revision": "d07c69f88e55baa9fff5825a6fb1451c",
-    "url": "/mallApp/dist/img/icon_d.png"
+    "revision": "88c4e29a65f7de4a3ccdfc4353fcb173",
+    "url": "/mallApp/dist/img/icon_c.png"
   },
   {
-    "revision": "7366c90d73df9e30fc11",
-    "url": "/mallApp/dist/js/app.ed1e726e.js"
+    "revision": "47124451cec1dcb23687",
+    "url": "/mallApp/dist/js/app.f8a8a729.js"
   },
   {
     "revision": "ba2ca962a57fcae138dfe83e8949f5b2",
@@ -236,19 +236,19 @@ self.__precacheManifest = [
     "url": "/mallApp/dist/img/user.jpg"
   },
   {
-    "revision": "6665c9a3d844e4c2a5894a0086feb9f5",
-    "url": "/mallApp/dist/img/youhuiBg.png"
-  },
-  {
     "revision": "5875ab046565b6106e9075b007f19e84",
     "url": "/mallApp/dist/img/myBg.png"
+  },
+  {
+    "revision": "6665c9a3d844e4c2a5894a0086feb9f5",
+    "url": "/mallApp/dist/img/youhuiBg.png"
   },
   {
     "revision": "6f1e279f8d9573774f2867cfa13f040d",
     "url": "/mallApp/dist/img/iconfont.6f1e279f.svg"
   },
   {
-    "revision": "c70d5906284729525d2b0691643b1814",
+    "revision": "9b3ceadbdf96fda61af4a263b7d233b6",
     "url": "/mallApp/dist/index.html"
   },
   {
@@ -258,6 +258,10 @@ self.__precacheManifest = [
   {
     "revision": "3fba31b31a28754bd296623ff27e127f",
     "url": "/mallApp/dist/js/dprAuto.js"
+  },
+  {
+    "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
+    "url": "/mallApp/dist/robots.txt"
   },
   {
     "revision": "762079bee7e949464501452e8b104a34",
@@ -272,28 +276,28 @@ self.__precacheManifest = [
     "url": "/mallApp/dist/img/location.jpg"
   },
   {
-    "revision": "2782ea42883683188a2cd58cddcea07a",
-    "url": "/mallApp/dist/img/kong.png"
-  },
-  {
-    "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
-    "url": "/mallApp/dist/robots.txt"
-  },
-  {
     "revision": "284efc1bb3856dc9a55e2a77b1a72d7f",
     "url": "/mallApp/dist/img/pic_8.png"
   },
   {
-    "revision": "c859468342e8608defd48c5c025aeb70",
-    "url": "/mallApp/dist/img/pic_7.png"
+    "revision": "2782ea42883683188a2cd58cddcea07a",
+    "url": "/mallApp/dist/img/kong.png"
   },
   {
     "revision": "78edf6f00dfbe9eaab5bfd8cfeccfa25",
     "url": "/mallApp/dist/img/pic_5.png"
   },
   {
+    "revision": "c859468342e8608defd48c5c025aeb70",
+    "url": "/mallApp/dist/img/pic_7.png"
+  },
+  {
     "revision": "994e156d6f0f25ea3cdd",
     "url": "/mallApp/dist/css/chunk-9b60c6a4.769e7467.css"
+  },
+  {
+    "revision": "48b4aef71c9dd79d4f5174333e109547",
+    "url": "/mallApp/dist/img/couput_c.png"
   },
   {
     "revision": "93aa96495307304626c53cd23b9b5bdd",
@@ -308,64 +312,80 @@ self.__precacheManifest = [
     "url": "/mallApp/dist/css/chunk-64e9d827.25b9e9e5.css"
   },
   {
-    "revision": "9d2774317e999866ac8ec2db5b9774b3",
-    "url": "/mallApp/dist/img/couput_b.png"
-  },
-  {
-    "revision": "48b4aef71c9dd79d4f5174333e109547",
-    "url": "/mallApp/dist/img/couput_c.png"
-  },
-  {
-    "revision": "b7282018b18ae64ffaad",
-    "url": "/mallApp/dist/css/chunk-6383efd4.4644e670.css"
-  },
-  {
-    "revision": "66cf5806d9e9c592aa99d7982b417f8e",
-    "url": "/mallApp/dist/fonts/iconfont.66cf5806.woff"
+    "revision": "c52edc3cb07433adebc29c063a93b23a",
+    "url": "/mallApp/dist/fonts/iconfont.c52edc3c.ttf"
   },
   {
     "revision": "0cbaf14ac34b45a0ca2def742d361a1b",
     "url": "/mallApp/dist/img/about_code.png"
   },
   {
-    "revision": "c52edc3cb07433adebc29c063a93b23a",
-    "url": "/mallApp/dist/fonts/iconfont.c52edc3c.ttf"
-  },
-  {
-    "revision": "a9526d5b060431f02d05db19aaa15a9f",
-    "url": "/mallApp/dist/fonts/iconfont.a9526d5b.eot"
+    "revision": "9d2774317e999866ac8ec2db5b9774b3",
+    "url": "/mallApp/dist/img/couput_b.png"
   },
   {
     "revision": "30b1b502d883f0cf55b63b437204f06e",
     "url": "/mallApp/dist/img/couput_a.png"
   },
   {
-    "revision": "793de67da7e6d8d97cf0",
-    "url": "/mallApp/dist/css/chunk-4a0a1e14.74a69b8d.css"
-  },
-  {
-    "revision": "6d21838112aec93db69c",
-    "url": "/mallApp/dist/css/chunk-c53055a4.e68d7716.css"
-  },
-  {
-    "revision": "c93341132f3071ff6d3d",
-    "url": "/mallApp/dist/css/chunk-fc666dea.fae4b606.css"
-  },
-  {
-    "revision": "dfb0b40fd96738dba36b",
-    "url": "/mallApp/dist/css/chunk-vendors.23d90689.css"
+    "revision": "bd0d48ff3a9f4de2c3eb",
+    "url": "/mallApp/dist/css/chunk-521e4590.47d8cfd6.css"
   },
   {
     "revision": "eb78ca245aeff896569f",
     "url": "/mallApp/dist/css/chunk-fa1ac7f0.16293435.css"
   },
   {
+    "revision": "66cf5806d9e9c592aa99d7982b417f8e",
+    "url": "/mallApp/dist/fonts/iconfont.66cf5806.woff"
+  },
+  {
+    "revision": "c93341132f3071ff6d3d",
+    "url": "/mallApp/dist/css/chunk-fc666dea.fae4b606.css"
+  },
+  {
+    "revision": "a9526d5b060431f02d05db19aaa15a9f",
+    "url": "/mallApp/dist/fonts/iconfont.a9526d5b.eot"
+  },
+  {
+    "revision": "dfb0b40fd96738dba36b",
+    "url": "/mallApp/dist/css/chunk-vendors.23d90689.css"
+  },
+  {
+    "revision": "5be38c1172906efe2c2d",
+    "url": "/mallApp/dist/css/chunk-3c3f24ac.ea1c511a.css"
+  },
+  {
+    "revision": "12308dfb40be5adda816",
+    "url": "/mallApp/dist/css/chunk-a652b354.fac2e272.css"
+  },
+  {
+    "revision": "6d21838112aec93db69c",
+    "url": "/mallApp/dist/css/chunk-c53055a4.e68d7716.css"
+  },
+  {
+    "revision": "89c4cd970a9a4e54ae9f",
+    "url": "/mallApp/dist/css/chunk-a8f14e62.4fff4523.css"
+  },
+  {
     "revision": "1e47acf15478baba1891",
     "url": "/mallApp/dist/css/chunk-e78efcb8.88c6fbeb.css"
   },
   {
-    "revision": "d72288c0f325af1e2384",
-    "url": "/mallApp/dist/css/chunk-33f2f2fe.8b3d6609.css"
+    "revision": "fed066f0b15ddee548a9",
+    "url": "/mallApp/dist/css/chunk-ac429a8c.f9a60bf6.css"
+  },
+  {
+    "revision": "8db40c25695d23e44d72",
+    "url": "/mallApp/dist/css/chunk-27bcc075.9b4caf93.css"
+  },
+  {
+    "revision": "b7282018b18ae64ffaad",
+    "url": "/mallApp/dist/css/chunk-6383efd4.4644e670.css"
+  },
+  {
+    "revision": "822a669926f60885646c",
+    "url": "/mallApp/dist/css/chunk-781f8ca9.dd27eeff.css"
   },
   {
     "revision": "1cda2d1e3b36d646cf3f",
@@ -376,48 +396,28 @@ self.__precacheManifest = [
     "url": "/mallApp/dist/css/chunk-9d5f2c28.ac79b1ac.css"
   },
   {
-    "revision": "12308dfb40be5adda816",
-    "url": "/mallApp/dist/css/chunk-a652b354.fac2e272.css"
-  },
-  {
-    "revision": "89c4cd970a9a4e54ae9f",
-    "url": "/mallApp/dist/css/chunk-a8f14e62.4fff4523.css"
-  },
-  {
-    "revision": "fed066f0b15ddee548a9",
-    "url": "/mallApp/dist/css/chunk-ac429a8c.f9a60bf6.css"
-  },
-  {
-    "revision": "2dc9dbb188961ee569a4",
-    "url": "/mallApp/dist/css/chunk-23503e6d.84864366.css"
-  },
-  {
-    "revision": "bd0d48ff3a9f4de2c3eb",
-    "url": "/mallApp/dist/css/chunk-521e4590.47d8cfd6.css"
-  },
-  {
-    "revision": "89db43972ad26c1c36a2",
-    "url": "/mallApp/dist/css/chunk-5e389fcc.226bcd3e.css"
-  },
-  {
-    "revision": "822a669926f60885646c",
-    "url": "/mallApp/dist/css/chunk-781f8ca9.dd27eeff.css"
+    "revision": "793de67da7e6d8d97cf0",
+    "url": "/mallApp/dist/css/chunk-4a0a1e14.74a69b8d.css"
   },
   {
     "revision": "c2591fbc095e6476768e",
     "url": "/mallApp/dist/css/chunk-43940892.835b0f14.css"
   },
   {
-    "revision": "5be38c1172906efe2c2d",
-    "url": "/mallApp/dist/css/chunk-3c3f24ac.ea1c511a.css"
+    "revision": "89db43972ad26c1c36a2",
+    "url": "/mallApp/dist/css/chunk-5e389fcc.226bcd3e.css"
+  },
+  {
+    "revision": "d72288c0f325af1e2384",
+    "url": "/mallApp/dist/css/chunk-33f2f2fe.8b3d6609.css"
   },
   {
     "revision": "397fa67b572723716deb",
     "url": "/mallApp/dist/css/chunk-31666fa6.82d50b7d.css"
   },
   {
-    "revision": "8db40c25695d23e44d72",
-    "url": "/mallApp/dist/css/chunk-27bcc075.9b4caf93.css"
+    "revision": "2dc9dbb188961ee569a4",
+    "url": "/mallApp/dist/css/chunk-23503e6d.84864366.css"
   },
   {
     "revision": "79ac2a2a979c5bf3b37e",
@@ -436,7 +436,7 @@ self.__precacheManifest = [
     "url": "/mallApp/dist/css/chunk-12a74a2e.b9e2dd51.css"
   },
   {
-    "revision": "7366c90d73df9e30fc11",
+    "revision": "47124451cec1dcb23687",
     "url": "/mallApp/dist/css/app.4a39b4b2.css"
   }
 ];
